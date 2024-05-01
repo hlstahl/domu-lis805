@@ -8,7 +8,7 @@
 >
 >In your command shell, type: 
 >
->$ pip install dcxml 
+>`$ pip install dcxml`
 >
 >Learn more about the Dublin Core XML module here: 
 >https://pythonhosted.org/dcxml/ 
